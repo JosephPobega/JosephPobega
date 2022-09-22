@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Projects
+## Projects
 
 https://github.com/Adog64/OpenSmartHome OpenSmartHome
 
