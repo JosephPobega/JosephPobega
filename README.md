@@ -1,5 +1,5 @@
 ### Hi there 👋
-Interest: Software Development
+<h2>Interest: Software Development</h2>
 
 ## Projects
 
