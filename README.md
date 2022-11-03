@@ -8,3 +8,4 @@
 * https://github.com/JosephPobega/CollegeWork CS Work from College
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephPobega&theme=tokyonight)
