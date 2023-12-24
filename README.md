@@ -5,8 +5,10 @@
 * https://github.com/JosephPobega/ArduinoProjects Projects to work with Arduino 
 * https://github.com/JosephPobega/CollegeWork CS Work from College
 
-##
+## About me
 
+
+Personal Website ~ jobega.net
 Resume ~ (https://github.com/JosephPobega/JosephPobega/files/13759904/Joseph.Pobega.Resume.2023.pdf)
 
 
