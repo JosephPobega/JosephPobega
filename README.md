@@ -9,5 +9,6 @@
 
 ## About Me
 * Personal Website ~ https://jobega.net <br>
-* Resume ~ (https://github.com/JosephPobega/JosephPobega/files/13759904/Joseph.Pobega.Resume.2023.pdf)
+* Resume ~ [JosephPobegaResume2024.pdf](https://github.com/JosephPobega/JosephPobega/files/13983098/JosephPobegaResume2024.pdf)
+
 
